@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Your Company Link Page</title>
+ <style>
+   /* Add some basic styling to the buttons */
+   .button {
+     display: inline-block;
+     padding: 10px 20px;
+     background-color: #f1f1f1;
+     color: #333;
+     text-decoration: none;
+     font-weight: bold;
+     border-radius: 4px;
+     margin: 10px;
+   }
+ </style>
+</head>
+<body>
+ <h1>Welcome to Your Company</h1>
+ <p>Explore our offerings and take the next steps:</p>
+
+ <a class="button" href="https://discovere.io/">Website</a>
+ <a class="button" href="https://discovere.io/#casestudies">Case Studies</a>
+ <a class="button" href="https://discovere.io/">Book Appointment</a>
+</body>
+</html>
